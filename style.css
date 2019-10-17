@@ -1,0 +1,92 @@
+.super{
+    height:283px;
+    width:200px;
+    opacity: 0.5;
+    position: absolute;
+}
+
+.super2{
+    height:283px;
+    width:200px;
+    opacity: 0.5;
+    position:absolute;
+}
+
+.super3{
+    height:283px;
+    width:200px;
+    opacity: 0.5;
+    position:absolute;
+}
+
+.super4{
+    height:283px;
+    width:200px;
+    opacity: 0.5;
+    position:absolute;
+}
+
+.super5{
+    height:283px;
+    width:200px;
+    opacity: 0.5;
+    position:absolute;
+}
+
+.super6{
+    height:283px;
+    width:200px;
+    opacity: 0.5;
+    position:absolute;
+}
+.super:hover{
+    opacity: 1.0;
+}
+.super2:hover{
+    opacity: 1.0;
+}
+.super3:hover{
+    opacity: 1.0;
+}
+.super4:hover{
+    opacity: 1.0;
+}
+.super5:hover{
+    opacity: 1.0;
+}
+.super6:hover{
+    opacity: 1.0;
+}
+
+.write1{
+    font-family:'Times New Roman';
+    color: white;
+    font-size: 50px;
+    padding-left: 527px;
+    position:absolute;
+}
+
+.bg_ground
+{
+    background:url("NewJustice_header_5b184ee2a95fb1.82502763.jpg");
+    background-position: center;
+    background-size: cover;
+    position:relative;
+
+}
+
+.hndl{
+    color:white;
+    position:absolute;
+    font-family:'Haettenschweiler';
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
